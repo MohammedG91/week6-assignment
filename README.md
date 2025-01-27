@@ -1,8 +1,3 @@
-# React + Vite
+Really struggled with this. Manages to get the cookie counter working and the button working too, to add to the counter. Strted from scratch again last night and was up till late! Haven't had time to style it or deploy it unfortunately.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Wasn't sure how to implement the shop and pulled my beard out trying to figure it out!
